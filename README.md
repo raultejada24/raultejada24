@@ -30,6 +30,9 @@
 ### 🌟 Estadísticas:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raultejada24&show_icons=true&theme=radical)
 
+### 📊 Lenguajes más usados en mis commits:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raultejada24&layout=compact)
+
 ### 🌍 Idiomas:
 - 🇪🇸 Español (Nativo)
 - 🇬🇧 Inglés (C1 LenguageCert)
@@ -37,7 +40,7 @@
 
 ### 💬 ¿Quieres saber más de mí?
 - 💼 [Mi LinkedIn](https://www.linkedin.com/in/raúl-tejada-merinero-828ab2320)
+- 🧑‍💻 [Mi GitHub](https://github.com/raultejada24) 
 - 🌍 [Mis Contribuciones](https://github.com/raultejada24?tab=repositories)
-
 ---
 ⭐️ *Si te gusta mi perfil, ¡no olvides seguirme!*
