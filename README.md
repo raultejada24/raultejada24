@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy RAÚL
+### 🧑‍💻 Estudiante de Segundo de Ingeniería de Software en Universidad Rey Juan Carlos (Móstoles, Madrid)
 
-<!--
-**raultejada24/raultejada24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🚀 Construyendo proyectos y aprendiendo cada día.
+- 📚 Erasmus en Bochum, Alemania.
+- ✉️ Puedes contactarme en **[raulintm@gmail.com](mailto:raulintm@gmail.com)**.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologías que uso:  
+- **Lenguajes de programación:** JavaScript, Python, C++, Pascal, Java, Swift  
+- **Web:** HTML, CSS 
+- **Bases de datos:** SQL  
+- **Frameworks:** Node.js, Express, Mustache  
+- **Mobile:** Android Studio  
+- **Herramientas:** Git, Visual Studio Code  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Mis tecnologías:  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) 
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+
+
+### 🌟 Estadísticas:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raultejada24&show_icons=true&theme=radical)
+
+### 💬 ¿Quieres saber más de mí?
+- 💼 [Mi LinkedIn](https://www.linkedin.com/in/raúl-tejada-merinero-828ab2320)
+- 🌐 [Mi Portfolio](EN PROCESO)
+
+
+---
+⭐️ *Si te gusta mi perfil, ¡no olvides seguirme!*
