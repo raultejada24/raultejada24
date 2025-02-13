@@ -30,22 +30,6 @@
 ### 🌟 Estadísticas:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raultejada24&show_icons=true&theme=radical)
 
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/raultejada24/raultejada24/output/snake.svg" alt="Snake animation" />
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=raultejada24&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
-
-
 ### 📊 Lenguajes más usados en mis commits:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raultejada24&layout=compact)
 
@@ -58,5 +42,15 @@
 - 💼 [Mi LinkedIn](https://www.linkedin.com/in/raúl-tejada-merinero-828ab2320)
 - 🧑‍💻 [Mi GitHub](https://github.com/raultejada24) 
 - 🌍 [Mis Contribuciones](https://github.com/raultejada24?tab=repositories)
+
+### 🚀 Animación de commits:
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/raultejada24/raultejada24/output/snake.svg" alt="Snake animation" />
+
+### 🔥 Mis estadísticas de contribuciones:
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=raultejada24&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+</div>
 ---
 ⭐️ *Si te gusta mi perfil, ¡no olvides seguirme!*
