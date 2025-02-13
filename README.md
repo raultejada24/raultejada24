@@ -7,12 +7,7 @@
 
 ### 🛠️ Tecnologías que uso:  
 - **Lenguajes de programación:**  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-  ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)  
-  ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
-  ![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white)  
-  ![Pascal](https://img.shields.io/badge/-Pascal-1E90FF)  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white) ![Pascal](https://img.shields.io/badge/-Pascal-1E90FF)  
 
 - **Web:**  
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
