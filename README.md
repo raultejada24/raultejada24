@@ -30,7 +30,6 @@
 ### 🌟 Estadísticas:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raultejada24&show_icons=true&theme=radical)
 
-###
 
 <br clear="both">
 
@@ -38,16 +37,14 @@
 
 ###
 
-###
-
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=raultejada24&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=raultejada24&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 
-###
 
 ### 📊 Lenguajes más usados en mis commits:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raultejada24&layout=compact)
