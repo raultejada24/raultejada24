@@ -45,7 +45,6 @@
 
 ### 🚀 Animación de commits:
 <br clear="both">
-
 <img src="https://raw.githubusercontent.com/raultejada24/raultejada24/output/snake.svg" alt="Snake animation" />
 
 ### 🔥 Mis estadísticas de contribuciones:
