@@ -45,7 +45,6 @@
 
 ### 🚀 Animación de commits:
 
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/raultejada24/raultejada24/output/snake.svg" alt="Snake animation" />
@@ -54,10 +53,6 @@
 ### 🔥 Mis estadísticas de contribuciones:
 
 <img src="https://streak-stats.demolab.com?user=raultejada24&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-
-
-<div align="center">
-</div>
 
 ---
 ⭐️ *Si te gusta mi perfil, ¡no olvides seguirme!*
