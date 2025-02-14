@@ -53,8 +53,6 @@
 
 
 
-<img src="https://raw.githubusercontent.com/raultejada24/main/snake.svg" alt="Snake animation" />
-
 
 
 ### 🔥 Mis estadísticas de contribuciones:
