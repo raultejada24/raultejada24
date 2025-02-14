@@ -52,6 +52,10 @@
 <img src="https://raw.githubusercontent.com/raultejada24/raultejada24/output/snake.svg" alt="Snake animation" />
 
 
+### 🚀 Aommits:
+
+<img src="https://github.com/raultejada24/raultejada24/blob/output/dist/snake.svg" alt="Snake animation" />
+
 
 
 
