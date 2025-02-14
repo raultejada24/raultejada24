@@ -35,7 +35,7 @@
 
 ### 🌍 Idiomas:
 - 🇪🇸 Español (Nativo)
-- 🇬🇧 Inglés (C1 LenguageCert)
+- 🇬🇧 Inglés (C1 LanguageCert)
 - 🇩🇪 Alemán (B2 Goethe)
 
 ### 💬 ¿Quieres saber más de mí?
