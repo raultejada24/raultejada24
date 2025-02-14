@@ -55,12 +55,6 @@
 ###
 
 
-### 🚀 Aommits:
-
-<img src="https://github.com/raultejada24/raultejada24/blob/output/dist/snake.svg" alt="Snake animation" />
-
-
-
 
 ### 🔥 Mis estadísticas de contribuciones:
 
