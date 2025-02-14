@@ -44,13 +44,9 @@
 - 🌍 [Mis Contribuciones](https://github.com/raultejada24?tab=repositories)
 
 ### 🚀 Animación de commits:
-###
 
-<br clear="both">
+![Snake animation](https://raw.githubusercontent.com/raultejada24/raultejada24/output/github-contribution-grid-snake-dark.svg)
 
-<img src="https://raw.githubusercontent.com/raultejada24/raultejada24/output/snake.svg" alt="Snake animation" />
-
-###
 
 ### 🔥 Mis estadísticas de contribuciones:
 
