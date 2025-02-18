@@ -47,7 +47,7 @@
 
 
 
-![snake gif](https://github.com/raultejada24/raultejada24/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/raultejada24/raultejada24/blob/output/snake.svg)
 
 
 
