@@ -45,7 +45,7 @@
 
 ### 🚀 Animación de commits:
 
-![Snake animation](https://raw.githubusercontent.com/raultejada24/raultejada24/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/raultejada24/output/github-contribution-grid-snake-dark.svg)
 
 
 ### 🔥 Mis estadísticas de contribuciones:
