@@ -43,11 +43,9 @@
 - 🧑‍💻 [Mi GitHub](https://github.com/raultejada24) 
 - 🌍 [Mis Contribuciones](https://github.com/raultejada24?tab=repositories)
 
-### 🚀 Animación de commits:
+### 🔥 Mis estadísticas de contribuciones:
 ![snake gif](https://github.com/raultejada24/raultejada24/blob/output/snake.svg)
 
-
-### 🔥 Mis estadísticas de contribuciones:
 
 <img src="https://streak-stats.demolab.com?user=raultejada24&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 
