@@ -1,5 +1,5 @@
 # 👋 ¡Hola! Soy RAÚL
-### 🧑‍💻 Estudiante de 2º Ingeniería del Software en Universidad Rey Juan Carlos (Móstoles, Madrid)
+### 🧑‍💻 Estudiante de 2º Grado de Ingeniería del Software en Universidad Rey Juan Carlos (Móstoles, Madrid)
 
 - 🚀 Construyendo proyectos y aprendiendo cada día.
 - 📚 Erasmus en Bochum, Alemania.
