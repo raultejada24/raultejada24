@@ -91,8 +91,3 @@
 ---
 
 🌟 *If you like my profile, don't forget to follow me!*
-
----
-
-🚀 **Real Madrid GIF/Banner**  
-![Real Madrid](https://media.giphy.com/media/hStzw40AOdOe/giphy.gif)
