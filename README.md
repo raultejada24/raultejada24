@@ -4,7 +4,7 @@
 - 🚀 Building projects and learning every day.  
 - 📚 Erasmus in Bochum, Germany.  
 - ✉️ You can contact me at **[r.tejada.2023@alumnos.urjc.es](mailto:r.tejada.2023@alumnos.urjc.es)**.  
-- 👀 **Total visits to my profile**: 1,235  
+- 👀 **Total visits to my profile**: 457 
 
 ---
 
