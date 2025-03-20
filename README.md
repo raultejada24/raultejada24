@@ -46,6 +46,7 @@
       <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" />
       <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -65,13 +66,27 @@
 ---
 
 ## 📊 GitHub Stats  
+
 <table align="center">
   <tr>
+    <td colspan="2">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raultejada24&theme=solarized" />
+    </td>
+  </tr>
+  <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=raultejada24&show_icons=true&theme=radical" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raultejada24&theme=solarized" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raultejada24&layout=compact" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raultejada24&theme=solarized" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raultejada24&theme=solarized" />
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raultejada24&theme=solarized&utcOffset=2" />
     </td>
   </tr>
 </table>
