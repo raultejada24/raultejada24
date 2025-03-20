@@ -1,59 +1,23 @@
 # 👋 Hi! I'm RAÚL  
-### 🧑‍💻 2nd-year Software Engineering Student at Universidad Rey Juan Carlos (Móstoles, Madrid)  
+### 🧑‍💻 2nd-year Software Engineering Student at Universidad Rey Juan Carlos (Móstoles, Madrid)
 
 - 🚀 Building projects and learning every day.  
 - 📚 Erasmus in Bochum, Germany.  
 - ✉️ You can contact me at **[r.tejada.2023@alumnos.urjc.es](mailto:r.tejada.2023@alumnos.urjc.es)**.  
+- 👀 **Total visits to my profile**: 1,235  
 
 ---
 
 ## 🛠️ Technologies I use  
 
-<table>
-  <tr>
-    <th>Languages</th>
-    <th>Web</th>
-    <th>Databases</th>
-    <th>Frameworks</th>
-    <th>Mobile</th>
-    <th>Tools</th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Pascal-1E90FF" />
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white" />
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white" />
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Mustache-964B00?logo=mustache&logoColor=white" />
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white" />
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" />
-      <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white" />
-    </td>
-  </tr>
-</table>
+| **Languages** | **Web** | **Databases** | **Frameworks** | **Mobile** | **Tools** |
+|---------------|---------|---------------|----------------|------------|-----------|
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![Pascal](https://img.shields.io/badge/-Pascal-1E90FF) | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white) | ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![Mustache](https://img.shields.io/badge/-Mustache-964B00?logo=mustache&logoColor=white) | ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white) ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white) |
 
 ---
 
 ## 💡 Technologies I want to learn  
+
 <p align="center">
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white" />
@@ -127,3 +91,8 @@
 ---
 
 🌟 *If you like my profile, don't forget to follow me!*
+
+---
+
+🚀 **Real Madrid GIF/Banner**  
+![Real Madrid](https://media.giphy.com/media/hStzw40AOdOe/giphy.gif)
