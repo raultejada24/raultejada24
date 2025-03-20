@@ -1,9 +1,15 @@
 # 👋 Hi! I'm RAÚL  
 ### 🧑‍💻 2nd-year Software Engineering Student at Universidad Rey Juan Carlos (Móstoles, Madrid)  
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg" width="150px">
+</p>
+
 - 🚀 Building projects and learning every day.  
 - 📚 Erasmus in Bochum, Germany.  
 - ✉️ You can contact me at **[r.tejada.2023@alumnos.urjc.es](mailto:r.tejada.2023@alumnos.urjc.es)**.  
+
+![Profile Views](https://komarev.com/ghpvc/?username=raultejada24&color=blue&style=flat)
 
 ---
 
@@ -93,6 +99,13 @@
 
 ---
 
+## 🎵 Now Playing on Spotify  
+<p align="center">
+  <img src="https://novatorem-username.vercel.app/api/spotify" />
+</p>
+
+---
+
 ## 🌍 Languages  
 <p align="center">
   🇪🇸 Spanish (Native) &nbsp;&nbsp; 🇬🇧 English (C1 LanguageCert) &nbsp;&nbsp; 🇩🇪 German (B2 Goethe)
@@ -111,17 +124,6 @@
   <a href="https://github.com/raultejada24?tab=repositories">
     <img src="https://img.shields.io/badge/-My%20Contributions-FFA500?logo=git&logoColor=white" />
   </a>
-</p>
-
----
-
-## 🔥 My contribution stats  
-<p align="center">
-  <img src="https://github.com/raultejada24/raultejada24/blob/output/snake.svg" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=raultejada24&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </p>
 
 ---
