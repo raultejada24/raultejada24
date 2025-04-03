@@ -28,23 +28,23 @@
 <table align="center">
   <tr>
     <td colspan="2">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raultejada24&theme=solarized&icon_color=green" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raultejada24&theme=solarized" />
     </td>
   </tr>
   <tr>
     <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raultejada24&theme=solarized&icon_color=green" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raultejada24&theme=solarized" />
     </td>
     <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raultejada24&theme=solarized&icon_color=green" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raultejada24&theme=solarized" />
     </td>
   </tr>
   <tr>
     <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raultejada24&show_icons=true&theme=solarized&icon_color=green" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raultejada24&show_icons=true&theme=solarized" />
     </td>
     <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raultejada24&theme=solarized&utcOffset=2&icon_color=green" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raultejada24&theme=solarized&utcOffset=2" />
     </td>
   </tr>
 </table>
