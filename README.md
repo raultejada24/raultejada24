@@ -1,5 +1,5 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi! I'm RAÚL 
-### 🧑‍💻 2nd-year Software Engineering Student at Universidad Rey Juan Carlos (Móstoles, Madrid)
+<img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"> Hi! I'm RAÚL
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> 2nd-year Software Engineering Student at Universidad Rey Juan Carlos (Móstoles, Madrid)
 
 - 🚀 Building projects and learning every day.  
 - 📚 Erasmus in Bochum, Germany.  
@@ -9,7 +9,7 @@
 
 ---
 
-## 🛠️ Technologies & Tools I use
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Technologies & Tools I use
 
 | **Languages** | **Web** | **Databases** | **Frameworks/Runtime** | **Mobile** | **Tools** | **Data Formats** |
 |---------------|---------|---------------|------------------------|------------|-----------|------------------|
@@ -24,7 +24,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Stats
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Stats
 
 <table align="center">
   <tr>
@@ -51,8 +51,8 @@
 </table>
 
 ---
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> Want to know more about me?
 
-## 💬 Want to know more about me?  
 <p align="center">
   <a href="https://www.linkedin.com/in/raúl-tejada-merinero-828ab2320">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white" />
@@ -67,7 +67,8 @@
 
 ---
 
-## 🔥 My contribution stats  
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> My contribution stats
+
 <p align="center">
   <img src="https://github.com/raultejada24/raultejada24/blob/output/snake.svg" />
 </p>
