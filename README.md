@@ -42,7 +42,7 @@
   </tr>
   <tr>
     <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raultejada24&theme=solarized" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raultejada24&show_icons=true&theme=solarized" />
     </td>
     <td>
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raultejada24&theme=solarized&utcOffset=2" />
