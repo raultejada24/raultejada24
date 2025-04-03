@@ -1,5 +1,5 @@
-# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Hi! I'm RAÚL <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> 2nd-year Software Engineering Student at Universidad Rey Juan Carlos (Móstoles, Madrid)
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi! I'm RAÚL 
+### 🧑‍💻 2nd-year Software Engineering Student at Universidad Rey Juan Carlos (Móstoles, Madrid)
 
 - 🚀 Building projects and learning every day.  
 - 📚 Erasmus in Bochum, Germany.  
@@ -9,7 +9,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Technologies & Tools I use <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+## 🛠️ Technologies & Tools I use
 
 | **Languages** | **Web** | **Databases** | **Frameworks/Runtime** | **Mobile** | **Tools** | **Data Formats** |
 |---------------|---------|---------------|------------------------|------------|-----------|------------------|
@@ -24,7 +24,7 @@
 
 ---
 
-## 📊 GitHub Stats  
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Stats <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
 
 <table align="center">
   <tr>
