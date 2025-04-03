@@ -22,7 +22,7 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg?palette=dracula #monokai #solarized
+          outputs: dist/snake.svg?palette=monokai #dracula #solarized
 
 
       - name: push snake.svg to the output branch
