@@ -70,16 +70,9 @@
 ## 🔥 My contribution stats  
 <p align="center">
   <img src="https://github.com/raultejada24/raultejada24/blob/output/snake.svg" />
-</p>
-
-<p align="center">
+  [![trophy](https://github-profile-trophy.vercel.app/?username=raultejada24&theme=algolia)](https://github.com/raultejada24/github-profile-trophy)
   <img src="https://streak-stats.demolab.com?user=raultejada24&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </p>
-
----
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=raultejada24&theme=algolia)](https://github.com/raultejada24/github-profile-trophy)
-
 ---
 
 🌟 *If you like my profile, don't forget to follow me!*
