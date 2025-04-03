@@ -78,7 +78,7 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=raultejada24&theme=dark)](https://github.com/raultejada24/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=raultejada24&theme=algolia)](https://github.com/raultejada24/github-profile-trophy)
 
 ---
 
