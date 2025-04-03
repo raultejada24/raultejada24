@@ -4,6 +4,7 @@
 - 🚀 Building projects and learning every day.  
 - 📚 Erasmus in Bochum, Germany.  
 - ✉️ You can contact me at **[r.tejada.2023@alumnos.urjc.es](mailto:r.tejada.2023@alumnos.urjc.es)**.
+
 ![](https://komarev.com/ghpvc/?username=raultejada24&style=for-the-badge)
 ---
 
