@@ -73,7 +73,9 @@
 </p>
 
 <p align="center"> 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=raultejada24&theme=algolia)](https://github.com/raultejada24/github-profile-trophy)
+  <a href="https://github.com/raultejada24/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=raultejada24&theme=algolia" />
+  </a>
 </p>
 
 <p align="center">  
