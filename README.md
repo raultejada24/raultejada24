@@ -5,8 +5,7 @@
 - 📚 Erasmus in Bochum, Germany.  
 - ✉️ You can contact me at **[r.tejada.2023@alumnos.urjc.es](mailto:r.tejada.2023@alumnos.urjc.es)**.
 
-![](https://komarev.com/ghpvc/?username=raultejada24&style=for-the-badge&base=489&abbreviated=true)
-
+![](https://komarev.com/ghpvc/?username=raultejada24&style=for-the-badge&base=1260&abbreviated=true)
 ---
 
 ## 🛠️ Technologies & Tools I use  
