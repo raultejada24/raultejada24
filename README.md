@@ -2,7 +2,7 @@
 ### <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"> 2nd-year Software Engineering Student at Universidad Rey Juan Carlos (Móstoles, Madrid)
 
 - 🚀 Building projects and learning every day.  
-- 📚 Erasmus in Bochum, Germany.  
+- 📚 Erasmus in Bochum, Germany (25/26)  
 - ✉️ You can contact me at **[r.tejada.2023@alumnos.urjc.es](mailto:r.tejada.2023@alumnos.urjc.es)**.
 
 ![](https://komarev.com/ghpvc/?username=raultejada24&style=for-the-badge)
