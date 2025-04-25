@@ -1,8 +1,10 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi! I'm RAÚL
 ### <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"> 2nd-year Software Engineering Student at Universidad Rey Juan Carlos (Móstoles, Madrid)
 
-- 🚀 Building projects and learning every day.  
-- 📚 Erasmus in Bochum, Germany (25/26)  
+- 🚀 Always building, learning, and exploring new ideas.  
+- 📚 Erasmus in Bochum, Germany (25/26)
+- 🌍 Focused on growing.
+- 📍 Based in Madrid, Spain.
 - ✉️ You can contact me at **[r.tejada.2023@alumnos.urjc.es](mailto:r.tejada.2023@alumnos.urjc.es)**.
 
 ![](https://komarev.com/ghpvc/?username=raultejada24&style=for-the-badge)
