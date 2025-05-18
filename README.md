@@ -27,26 +27,26 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Stats (on public repositories)
 
-<table align="center">
-  <tr>
-    <td colspan="2">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raultejada24&theme=solarized" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raultejada24&theme=solarized" />
-    </td>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raultejada24&theme=solarized" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raultejada24&show_icons=true&theme=solarized" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <!-- Estadísticas generales -->
+        <img 
+          src="https://github-readme-stats.vercel.app/api?username=raultejada24&show_icons=true&theme=dark&border_radius=10&count_private=true&include_all_commits=true" 
+          alt="GitHub Stats" 
+        />
+      </td>
+      <td align="center">
+        <!-- Lenguajes más usados -->
+        <img 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=raultejada24&layout=compact&theme=dark&border_radius=10" 
+          alt="Top Languages" 
+        />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
