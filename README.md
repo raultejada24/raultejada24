@@ -30,7 +30,7 @@
 <div align="center">
         <!-- Estadísticas generales -->
         <img 
-          src="https://github-readme-stats.vercel.app/api?username=raultejada24&show_icons=true&theme=onedark&border_radius=10&count_private=true&include_all_commits=true" 
+          src="https://github-readme-stats.vercel.app/api?username=raultejada24&show_icons=true&theme=nightowl&border_radius=10&count_private=true&include_all_commits=true" 
           alt="GitHub Stats" 
         />
       <td align="center">
