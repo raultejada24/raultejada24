@@ -28,24 +28,17 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Stats (on public repositories)
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
         <!-- Estadísticas generales -->
         <img 
-          src="https://github-readme-stats.vercel.app/api?username=raultejada24&show_icons=true&theme=dark&border_radius=10&count_private=true&include_all_commits=true" 
+          src="https://github-readme-stats.vercel.app/api?username=raultejada24&show_icons=true&theme=onedark&border_radius=10&count_private=true&include_all_commits=true" 
           alt="GitHub Stats" 
         />
-      </td>
       <td align="center">
         <!-- Lenguajes más usados -->
         <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=raultejada24&layout=compact&theme=dark&border_radius=10" 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=raultejada24&layout=compact&theme=nightowl&border_radius=10" 
           alt="Top Languages" 
         />
-      </td>
-    </tr>
-  </table>
 </div>
 
 ---
