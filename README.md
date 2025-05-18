@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi! I'm RAÚL
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi! I'm Raúl 🤠
 ### <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"> 2nd-year Software Engineering Student at Universidad Rey Juan Carlos (Móstoles, Madrid)
 
 - 🚀 Always building, learning, and exploring new ideas.  
