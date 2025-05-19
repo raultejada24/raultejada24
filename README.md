@@ -49,12 +49,6 @@
   <img src="https://github.com/raultejada24/raultejada24/blob/output/snake.svg" />
 </p>
 
-<p align="center"> 
-  <a href="https://github.com/raultejada24/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=raultejada24&theme=algolia" />
-  </a>
-</p>
-
 <p align="center">  
   <img src="https://streak-stats.demolab.com?user=raultejada24&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </p>
