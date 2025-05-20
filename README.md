@@ -50,10 +50,10 @@
 </p>
 
 <div align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=raultejada24&locale=en&mode=daily&theme=nightowl&hide_border=false&border_radius=10" 
-    height="220" 
-    alt="🔥 GitHub Streak" 
+  <img
+    src="https://streak-stats.demolab.com?user=raultejada24&locale=en&mode=daily&theme=nightowl&hide_border=false&border_radius=10"
+    height="220"
+    alt="🔥 GitHub Streak"
   />
 </div>
 
