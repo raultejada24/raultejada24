@@ -55,17 +55,31 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> Want to know more about me?
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Want to know more about me?
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/raúl-tejada-merinero-828ab2320">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/raúl-tejada-merinero-828ab2320" target="_blank">
+    <img
+      src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
+      alt="LinkedIn"
+      height="40"
+    />
   </a>
-  <a href="https://github.com/raultejada24">
-    <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" />
+  &nbsp;&nbsp;
+  <a href="https://github.com/raultejada24" target="_blank">
+    <img
+      src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge"
+      alt="GitHub"
+      height="40"
+    />
   </a>
-  <a href="https://github.com/raultejada24?tab=repositories">
-    <img src="https://img.shields.io/badge/-My%20Contributions-FFA500?logo=git&logoColor=white" />
+  &nbsp;&nbsp;
+  <a href="https://github.com/raultejada24?tab=repositories" target="_blank">
+    <img
+      src="https://img.shields.io/badge/-My%20Contributions-FFA500?logo=git&logoColor=white&style=for-the-badge"
+      alt="My Contributions"
+      height="40"
+    />
   </a>
 </p>
 
