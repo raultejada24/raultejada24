@@ -49,9 +49,14 @@
   <img src="https://github.com/raultejada24/raultejada24/blob/output/snake.svg" />
 </p>
 
-<p align="center">  
-  <img src="https://streak-stats.demolab.com?user=raultejada24&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</p>
+<div align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=raultejada24&locale=en&mode=daily&theme=nightowl&hide_border=false&border_radius=10" 
+    height="220" 
+    alt="🔥 GitHub Streak" 
+  />
+</div>
+
 
 ---
 
