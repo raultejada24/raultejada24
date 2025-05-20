@@ -62,7 +62,7 @@
     <img
       src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
       alt="LinkedIn"
-      height="40"
+      height="30"
     />
   </a>
   &nbsp;&nbsp;
@@ -70,7 +70,7 @@
     <img
       src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge"
       alt="GitHub"
-      height="40"
+      height="30"
     />
   </a>
   &nbsp;&nbsp;
@@ -78,7 +78,7 @@
     <img
       src="https://img.shields.io/badge/-My%20Contributions-FFA500?logo=git&logoColor=white&style=for-the-badge"
       alt="My Contributions"
-      height="40"
+      height="30"
     />
   </a>
 </p>
