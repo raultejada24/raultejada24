@@ -53,7 +53,15 @@
   <img
     src="https://streak-stats.demolab.com?user=raultejada24&locale=en&mode=daily&theme=nightowl&hide_border=false&border_radius=10"
     height="220"
-    alt="🔥 GitHub Streak"
+    alt="🔥 GitHub Streak - demolab"
+  />
+</div>
+
+<div align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=raultejada24&theme=nightowl&hide_border=false&border_radius=10"
+    height="220"
+    alt="🔥 GitHub Streak- heroku"
   />
 </div>
 
