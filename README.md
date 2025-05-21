@@ -1,4 +1,13 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi! I'm Raúl 🤠
+<!-- Header -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=01bffa&height=300&section=header&text=Hi!,%20I'm%20Raúl%20Tejada%20🤠&fontSize=45&fontColor=FFFFFF)
+
+<!--
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
+  Hi! I'm Raúl 🤠
+</h1>
+-->
+
 ### <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"> 2nd-year Software Engineering Student at Universidad Rey Juan Carlos (Móstoles, Madrid)
 
 - 🚀 Always building, learning, and exploring new ideas.  
@@ -86,3 +95,6 @@
 ---
 
 🌟 *If you like my profile, don't forget to follow me!* 🌟
+
+<!-- Footer -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=01bffa&height=300&section=footer&animation=twinkling)
