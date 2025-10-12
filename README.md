@@ -22,7 +22,7 @@
 
 ## 🌍 Languages  
 <p align="center">
-  🇪🇸 Spanish (Native) &nbsp;&nbsp; 🇬🇧 English (C1 LanguageCert) &nbsp;&nbsp; 🇩🇪 German (B2 Goethe)
+  🇪🇸 Spanish (Native) &nbsp;&nbsp; 🇬🇧 English (C1 LanguageCert) &nbsp;&nbsp; 🇩🇪 German (B1 Goethe)
 </p>
 
 ---
