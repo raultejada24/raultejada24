@@ -14,6 +14,7 @@
 - 📚 Erasmus in Bochum, Germany
 - 🌍 Focused on growing.
 - 📍 Based in Madrid, Spain.
+- 🌐 Check out my **[Portfolio](https://raultejada24.github.io/)**.
 - ✉️ You can contact me at **[r.tejada.2023@alumnos.urjc.es](mailto:r.tejada.2023@alumnos.urjc.es)**.
 
 ![](https://komarev.com/ghpvc/?username=raultejada24&style=for-the-badge)
@@ -71,6 +72,13 @@
     <img
       src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
       alt="LinkedIn"
+      height="30"
+    />
+  </a>
+  <a href="https://raultejada24.github.io/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/-Portfolio-01bffa?logo=Google-chrome&logoColor=white&style=for-the-badge"
+      alt="Portfolio"
       height="30"
     />
   </a>
