@@ -75,6 +75,7 @@
       height="30"
     />
   </a>
+  &nbsp;&nbsp;
   <a href="https://raultejada24.github.io/" target="_blank">
     <img
       src="https://img.shields.io/badge/-Portfolio-01bffa?logo=Google-chrome&logoColor=white&style=for-the-badge"
