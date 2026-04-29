@@ -47,7 +47,7 @@
       <td align="center">
         <!-- Lenguajes más usados -->
         <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=raultejada24&layout=compact&theme=nightowl&border_radius=10" 
+          src="[https://github-readme-stats.vercel.app/api/top-langs/?username=raultejada24&layout=compact&theme=nightowl&border_radius=10](https://github-readme-stats.vercel.app/api/top-langs/?username=raultejada24&layout=compact&theme=nightowl&border_radius=10&langs_count=10&hide=css)" 
           alt="Top Languages" 
         />
 </div>
