@@ -8,7 +8,7 @@
 </h1>
 -->
 
-### <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"> 3rd-year Software Engineering Student at Universidad Rey Juan Carlos (Móstoles, Madrid)
+### <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"> 4th-year Software Engineering Student at Universidad Rey Juan Carlos (Móstoles, Madrid)
 
 - 🚀 Always building, learning, and exploring new ideas.  
 - 📚 Erasmus in Bochum, Germany
