@@ -1,12 +1,12 @@
 <!-- Header -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=01bffa&height=190&section=header&text=Hi!,%20I'm%20Raúl%20Tejada%20🤠&fontSize=30&fontColor=FFFFFF)
 
-
+<!--
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
   Hi! I'm Raúl 🤠
 </h1>
-
+-->
 
 ### <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"> 4th-year Software Engineering Student at Universidad Rey Juan Carlos (Móstoles, Madrid)
 
