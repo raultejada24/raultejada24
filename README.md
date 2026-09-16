@@ -11,9 +11,10 @@
 
 ### <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"> 4th-year Software Engineering Student at Universidad Rey Juan Carlos (Móstoles, Madrid)
 
+- 🔭 Currently working on **CadenceLab**, my bachelor's thesis: a multisport training-analysis web platform with an AI coach.
+- 💼 **Open to internships from February 2027** (on-site, hybrid or remote).
 - 🚀 Always building, learning, and exploring new ideas.
-- 📚 Erasmus in Bochum, Germany
-- 🌍 Focused on growing.
+- 📚 Erasmus in Bochum, Germany.
 - 📍 Based in Madrid, Spain.
 - 🌐 Check out my **[Portfolio](https://raultejada24.github.io/)**.
 - ✉️ You can contact me at **[r.tejada.2023@alumnos.urjc.es](mailto:r.tejada.2023@alumnos.urjc.es)**.
