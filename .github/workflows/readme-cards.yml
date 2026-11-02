@@ -1,0 +1,58 @@
+# Copy to .github/workflows/readme-cards.yml in the raultejada24/raultejada24 profile repo.
+# The public github-readme-stats instance is paused, so the cards are generated here every day
+# and the README embeds them from ./profile/*.svg (dark and light versions).
+name: README cards
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Stats (dark)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=raultejada24&show_icons=true&include_all_commits=true&count_private=true&border_radius=10&bg_color=0f1115&title_color=e8554c&text_color=e7eaf0&icon_color=e8554c&border_color=282e38
+          path: profile/stats-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Stats (light)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=raultejada24&show_icons=true&include_all_commits=true&count_private=true&border_radius=10&bg_color=ffffff&title_color=c8232b&text_color=1f2328&icon_color=c8232b&border_color=d0d7de
+          path: profile/stats-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Top languages (dark)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=raultejada24&layout=compact&langs_count=10&hide=css&border_radius=10&bg_color=0f1115&title_color=e8554c&text_color=e7eaf0&icon_color=e8554c&border_color=282e38
+          path: profile/top-langs-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Top languages (light)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=raultejada24&layout=compact&langs_count=10&hide=css&border_radius=10&bg_color=ffffff&title_color=c8232b&text_color=1f2328&icon_color=c8232b&border_color=d0d7de
+          path: profile/top-langs-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "chore: update README cards" || exit 0
+          git push

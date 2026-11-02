@@ -1,122 +1,95 @@
 <!-- Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f1115,100:e8554c&height=190&section=header&text=Ra%C3%BAl%20Tejada&fontSize=46&fontColor=e7eaf0&fontAlignY=36&desc=Software%20Engineering%20student%20%C2%B7%20Full%20Stack%20%C2%B7%20DevOps&descSize=17&descAlignY=58" alt="Raúl Tejada" />
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=01bffa&height=190&section=header&text=Hi!,%20I'm%20Raúl%20Tejada%20🤠&fontSize=30&fontColor=FFFFFF)
+<p align="right"><img src="https://komarev.com/ghpvc/?username=raultejada24&label=profile%20views&color=e8554c&style=flat-square" alt="Profile views" /></p>
 
-<!--
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
-  Hi! I'm Raúl 🤠
-</h1>
--->
+### 4th-year Software Engineering student at Universidad Rey Juan Carlos (Móstoles, Madrid)
 
-### <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"> 4th-year Software Engineering Student at Universidad Rey Juan Carlos (Móstoles, Madrid)
+```ts
+const raul = {
+  role: "Software Engineering student",
+  university: "Universidad Rey Juan Carlos, Madrid",
+  focus: ["Full Stack", "DevOps", "AI-powered features"],
+  building: "CadenceLab", // bachelor's thesis: multisport training analysis with an AI coach
+  erasmus: "Bochum, Germany",
+  languages: { es: "native", en: "C1 (LanguageCert)", de: "B1 (Goethe)" },
+  availableFrom: "2027-02", // internships: on-site, hybrid or remote
+  basedIn: "Madrid, Spain",
+};
+```
 
-- 🔭 Currently working on **CadenceLab**, my bachelor's thesis: a multisport training-analysis web platform with an AI coach.
-- 💼 **Open to internships from February 2027** (on-site, hybrid or remote).
-- 🚀 Always building, learning, and exploring new ideas.
-- 📚 Erasmus in Bochum, Germany.
-- 📍 Based in Madrid, Spain.
-- 🌐 Check out my **[Portfolio](https://raultejada24.github.io/)**.
-- ✉️ You can contact me at **[r.tejada.2023@alumnos.urjc.es](mailto:r.tejada.2023@alumnos.urjc.es)**.
+- Currently working on **CadenceLab**, my bachelor's thesis: a multisport training-analysis web platform with an AI coach.
+- **Open to internships from February 2027** (on-site, hybrid or remote).
+- Always building, learning and exploring new ideas.
+- Check out my **[portfolio](https://raultejada24.github.io/)** or write to me at **[r.tejada.2023@alumnos.urjc.es](mailto:r.tejada.2023@alumnos.urjc.es)**.
 
-![](https://komarev.com/ghpvc/?username=raultejada24&style=for-the-badge)
+## Tech stack
 
----
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td><img src="https://img.shields.io/badge/JavaScript-1A1E25?style=flat-square&logoColor=F7DF1E&logo=javascript" alt="JavaScript" /> <img src="https://img.shields.io/badge/TypeScript-1A1E25?style=flat-square&logoColor=3178C6&logo=typescript" alt="TypeScript" /> <img src="https://img.shields.io/badge/Python-1A1E25?style=flat-square&logoColor=3776AB&logo=python" alt="Python" /> <img src="https://img.shields.io/badge/Java-1A1E25?style=flat-square&logoColor=ED8B00&logo=openjdk" alt="Java" /> <img src="https://img.shields.io/badge/C-1A1E25?style=flat-square&logoColor=A8B9CC&logo=c" alt="C" /> <img src="https://img.shields.io/badge/C%2B%2B-1A1E25?style=flat-square&logoColor=00599C&logo=cplusplus" alt="C++" /> <img src="https://img.shields.io/badge/C%23-1A1E25?style=flat-square&logoColor=A179DC&logo=dotnet" alt="C#" /> <img src="https://img.shields.io/badge/Kotlin-1A1E25?style=flat-square&logoColor=7F52FF&logo=kotlin" alt="Kotlin" /> <img src="https://img.shields.io/badge/Swift-1A1E25?style=flat-square&logoColor=F05138&logo=swift" alt="Swift" /> <img src="https://img.shields.io/badge/PHP-1A1E25?style=flat-square&logoColor=777BB4&logo=php" alt="PHP" /> <img src="https://img.shields.io/badge/R-1A1E25?style=flat-square&logoColor=276DC3&logo=r" alt="R" /> <img src="https://img.shields.io/badge/MATLAB-1A1E25?style=flat-square&logoColor=0076A8" alt="MATLAB" /> <img src="https://img.shields.io/badge/Pascal-1A1E25?style=flat-square&logoColor=1E90FF" alt="Pascal" /> <img src="https://img.shields.io/badge/Bash-1A1E25?style=flat-square&logoColor=4EAA25&logo=gnubash" alt="Bash" /></td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><img src="https://img.shields.io/badge/HTML5-1A1E25?style=flat-square&logoColor=E34F26&logo=html5" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1A1E25?style=flat-square&logoColor=1572B6&logo=css" alt="CSS3" /> <img src="https://img.shields.io/badge/React-1A1E25?style=flat-square&logoColor=61DAFB&logo=react" alt="React" /> <img src="https://img.shields.io/badge/React%20Router-1A1E25?style=flat-square&logoColor=CA4245&logo=reactrouter" alt="React Router" /> <img src="https://img.shields.io/badge/Next.js-1A1E25?style=flat-square&logoColor=FFFFFF&logo=nextdotjs" alt="Next.js" /> <img src="https://img.shields.io/badge/Angular-1A1E25?style=flat-square&logoColor=DD0031&logo=angular" alt="Angular" /> <img src="https://img.shields.io/badge/Vite-1A1E25?style=flat-square&logoColor=646CFF&logo=vite" alt="Vite" /> <img src="https://img.shields.io/badge/Tailwind%20CSS-1A1E25?style=flat-square&logoColor=06B6D4&logo=tailwindcss" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/Bootstrap-1A1E25?style=flat-square&logoColor=7952B3&logo=bootstrap" alt="Bootstrap" /> <img src="https://img.shields.io/badge/Sass-1A1E25?style=flat-square&logoColor=CC6699&logo=sass" alt="Sass" /> <img src="https://img.shields.io/badge/Zustand-1A1E25?style=flat-square&logoColor=443E38" alt="Zustand" /> <img src="https://img.shields.io/badge/Recharts-1A1E25?style=flat-square&logoColor=22B5BF" alt="Recharts" /> <img src="https://img.shields.io/badge/Mustache-1A1E25?style=flat-square&logoColor=964B00" alt="Mustache" /></td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><img src="https://img.shields.io/badge/Node.js-1A1E25?style=flat-square&logoColor=5FA04E&logo=nodedotjs" alt="Node.js" /> <img src="https://img.shields.io/badge/Express-1A1E25?style=flat-square&logoColor=FFFFFF&logo=express" alt="Express" /> <img src="https://img.shields.io/badge/NestJS-1A1E25?style=flat-square&logoColor=E0234E&logo=nestjs" alt="NestJS" /> <img src="https://img.shields.io/badge/Spring%20Boot-1A1E25?style=flat-square&logoColor=6DB33F&logo=springboot" alt="Spring Boot" /> <img src="https://img.shields.io/badge/Spring-1A1E25?style=flat-square&logoColor=6DB33F&logo=spring" alt="Spring" /> <img src="https://img.shields.io/badge/Hibernate-1A1E25?style=flat-square&logoColor=BCAE79&logo=hibernate" alt="Hibernate" /> <img src="https://img.shields.io/badge/OpenAPI-1A1E25?style=flat-square&logoColor=85EA2D&logo=swagger" alt="OpenAPI" /></td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td><img src="https://img.shields.io/badge/MySQL-1A1E25?style=flat-square&logoColor=4479A1&logo=mysql" alt="MySQL" /> <img src="https://img.shields.io/badge/SQL-1A1E25?style=flat-square&logoColor=4479A1" alt="SQL" /> <img src="https://img.shields.io/badge/MongoDB-1A1E25?style=flat-square&logoColor=47A248&logo=mongodb" alt="MongoDB" /> <img src="https://img.shields.io/badge/Prisma-1A1E25?style=flat-square&logoColor=FFFFFF&logo=prisma" alt="Prisma" /> <img src="https://img.shields.io/badge/Firebase-1A1E25?style=flat-square&logoColor=FFCA28&logo=firebase" alt="Firebase" /></td>
+  </tr>
+  <tr>
+    <td><b>Testing & QA</b></td>
+    <td><img src="https://img.shields.io/badge/JUnit5-1A1E25?style=flat-square&logoColor=25A162&logo=junit5" alt="JUnit5" /> <img src="https://img.shields.io/badge/Mockito-1A1E25?style=flat-square&logoColor=7B61FF" alt="Mockito" /> <img src="https://img.shields.io/badge/Jest-1A1E25?style=flat-square&logoColor=C21325&logo=jest" alt="Jest" /> <img src="https://img.shields.io/badge/Vitest-1A1E25?style=flat-square&logoColor=6E9F18&logo=vitest" alt="Vitest" /> <img src="https://img.shields.io/badge/Selenium-1A1E25?style=flat-square&logoColor=43B02A&logo=selenium" alt="Selenium" /> <img src="https://img.shields.io/badge/JaCoCo-1A1E25?style=flat-square&logoColor=C80000" alt="JaCoCo" /> <img src="https://img.shields.io/badge/SonarQube-1A1E25?style=flat-square&logoColor=4E9CD6&logo=sonarqubeserver" alt="SonarQube" /> <img src="https://img.shields.io/badge/SonarCloud-1A1E25?style=flat-square&logoColor=126ED3&logo=sonarqubecloud" alt="SonarCloud" /></td>
+  </tr>
+  <tr>
+    <td><b>DevOps & Cloud</b></td>
+    <td><img src="https://img.shields.io/badge/Git-1A1E25?style=flat-square&logoColor=F05032&logo=git" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-1A1E25?style=flat-square&logoColor=FFFFFF&logo=github" alt="GitHub" /> <img src="https://img.shields.io/badge/GitHub%20Actions-1A1E25?style=flat-square&logoColor=2088FF&logo=githubactions" alt="GitHub Actions" /> <img src="https://img.shields.io/badge/CI%2FCD-1A1E25?style=flat-square&logoColor=00D9FF" alt="CI/CD" /> <img src="https://img.shields.io/badge/Docker-1A1E25?style=flat-square&logoColor=2496ED&logo=docker" alt="Docker" /> <img src="https://img.shields.io/badge/Docker%20Compose-1A1E25?style=flat-square&logoColor=2496ED&logo=docker" alt="Docker Compose" /> <img src="https://img.shields.io/badge/Kubernetes-1A1E25?style=flat-square&logoColor=326CE5&logo=kubernetes" alt="Kubernetes" /> <img src="https://img.shields.io/badge/AWS-1A1E25?style=flat-square&logoColor=FF9900" alt="AWS" /> <img src="https://img.shields.io/badge/Azure-1A1E25?style=flat-square&logoColor=0078D4" alt="Azure" /> <img src="https://img.shields.io/badge/Vercel-1A1E25?style=flat-square&logoColor=FFFFFF&logo=vercel" alt="Vercel" /> <img src="https://img.shields.io/badge/Apache-1A1E25?style=flat-square&logoColor=D22128&logo=apache" alt="Apache" /> <img src="https://img.shields.io/badge/Maven-1A1E25?style=flat-square&logoColor=C71A36&logo=apachemaven" alt="Maven" /> <img src="https://img.shields.io/badge/NPM-1A1E25?style=flat-square&logoColor=CB3837&logo=npm" alt="NPM" /></td>
+  </tr>
+  <tr>
+    <td><b>Tools & OS</b></td>
+    <td><img src="https://img.shields.io/badge/VS%20Code-1A1E25?style=flat-square&logoColor=007ACC" alt="VS Code" /> <img src="https://img.shields.io/badge/Android%20Studio-1A1E25?style=flat-square&logoColor=3DDC84&logo=androidstudio" alt="Android Studio" /> <img src="https://img.shields.io/badge/Postman-1A1E25?style=flat-square&logoColor=FF6C37&logo=postman" alt="Postman" /> <img src="https://img.shields.io/badge/Jira-1A1E25?style=flat-square&logoColor=0052CC&logo=jira" alt="Jira" /> <img src="https://img.shields.io/badge/Power%20BI-1A1E25?style=flat-square&logoColor=F2C811" alt="Power BI" /> <img src="https://img.shields.io/badge/Linux-1A1E25?style=flat-square&logoColor=FCC624&logo=linux" alt="Linux" /> <img src="https://img.shields.io/badge/Ubuntu-1A1E25?style=flat-square&logoColor=E95420&logo=ubuntu" alt="Ubuntu" /> <img src="https://img.shields.io/badge/Arch%20Linux-1A1E25?style=flat-square&logoColor=1793D1&logo=archlinux" alt="Arch Linux" /></td>
+  </tr>
+</table>
 
-## 🌍 Languages
-
-<p align="center">
-  🇪🇸 Spanish (Native) &nbsp;&nbsp; 🇬🇧 English (C1 LanguageCert) &nbsp;&nbsp; 🇩🇪 German (B1 Goethe)
-</p>
-
----
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Technologies & Tools I use
-
-| **Languages**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | **Web**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | **Databases**                                                                                                                                                                                                                                     | **Frameworks/Runtime**                                                                                                                                                                                                                                                                                                                                               | **Testing & QA**                                                                                                                                                                                                                                                                                                                                                                       | **Tools & DevOps**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | **Data Formats**                                                                                                                                       |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![Pascal](https://img.shields.io/badge/-Pascal-1E90FF) ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![Matlab](https://img.shields.io/badge/-Matlab-0076A8?logo=mathworks&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white) | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![React%20Router](https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) ![Tailwind%20CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white) ![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white) ![Mustache](https://img.shields.io/badge/-Mustache-964B00) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![Spring%20Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white) | ![JUnit](https://img.shields.io/badge/-JUnit5-25A162?logo=junit5&logoColor=white) ![Mockito](https://img.shields.io/badge/-Mockito-7B61FF) ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white) ![JaCoCo](https://img.shields.io/badge/-JaCoCo-C80000) ![SonarQube](https://img.shields.io/badge/-SonarQube-4E9CD6?logo=sonarqube&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![VS%20Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white) ![Android%20Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white) ![NPM](https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white) ![Maven](https://img.shields.io/badge/-Maven-C71A36?logo=apache-maven&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) ![CI/CD](https://img.shields.io/badge/-CI/CD-00D9FF) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white) ![Arch%20Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?logo=arch-linux&logoColor=white) ![Apache](https://img.shields.io/badge/-Apache-D22128?logo=apache&logoColor=white) | ![XML](https://img.shields.io/badge/-XML-FF8C00?logo=xml&logoColor=white) ![JSON](https://img.shields.io/badge/-JSON-000000?logo=json&logoColor=white) |
-
----
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Stats (on public repositories)
-
-<div align="center">
-        <!-- Estadísticas generales -->
-        <img 
-          src="https://github-readme-stats.vercel.app/api?username=raultejada24&show_icons=true&theme=nightowl&border_radius=10&count_private=true&include_all_commits=true" 
-          alt="GitHub Stats" 
-        />
-      <td align="center">
-        <!-- Lenguajes más usados -->
-        <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=raultejada24&layout=compact&theme=nightowl&border_radius=10&langs_count=10&hide=css" 
-          alt="Top Languages" 
-        />
-</div>
-
----
-
-## 🔥 GitHub Activity
-
-<p align="center">
-  <img src="https://github.com/raultejada24/raultejada24/blob/output/snake.svg" />
-</p>
+## GitHub activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=raultejada24&locale=en&mode=daily&theme=nightowl&hide_border=false&border_radius=10" height="190" alt="🔥 GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" />
+    <img src="./profile/stats-light.svg" alt="GitHub stats" height="170" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg" />
+    <img src="./profile/top-langs-light.svg" alt="Top languages" height="170" />
+  </picture>
 </p>
-
----
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Want to know more about me?
 
 <p align="center">
-  <a href="https://raultejada24.github.io/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/-Portfolio-01bffa?logo=Google-chrome&logoColor=white&style=for-the-badge"
-      alt="Portfolio"
-      height="30"
-    />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/raultejadamerinero/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
-      alt="LinkedIn"
-      height="30"
-    />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/raultejada24" target="_blank">
-    <img
-      src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge"
-      alt="GitHub"
-      height="30"
-    />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/raultejada24?tab=repositories" target="_blank">
-    <img
-      src="https://img.shields.io/badge/-My%20Contributions-FFA500?logo=git&logoColor=white&style=for-the-badge"
-      alt="My Contributions"
-      height="30"
-    />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://hub.docker.com/u/raultejada24" target="_blank">
-    <img
-      src="https://img.shields.io/badge/-Docker%20Hub-2496ED?logo=docker&logoColor=white&style=for-the-badge"
-      alt="Docker Hub"
-      height="30"
-    />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=raultejada24&locale=en&mode=daily&border_radius=10&background=0F1115&border=282E38&stroke=282E38&ring=E8554C&fire=E8554C&currStreakNum=E7EAF0&sideNums=E7EAF0&currStreakLabel=E8554C&sideLabels=9AA3B2&dates=9AA3B2" />
+    <img src="https://streak-stats.demolab.com?user=raultejada24&locale=en&mode=daily&border_radius=10&background=FFFFFF&border=D0D7DE&stroke=D0D7DE&ring=C8232B&fire=C8232B&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=C8232B&sideLabels=59636E&dates=59636E" alt="GitHub streak" height="180" />
+  </picture>
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/raultejada24/raultejada24/output/snake.svg" alt="Contribution snake" />
+</p>
 
-🌟 _If you like my profile, don't forget to follow me!_ 🌟
+## Find me
+
+<p align="center">
+  <a href="https://raultejada24.github.io/"><img src="https://img.shields.io/badge/Portfolio-1A1E25?style=for-the-badge&logoColor=E8554C&logo=googlechrome" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/raultejadamerinero/"><img src="https://img.shields.io/badge/LinkedIn-1A1E25?style=for-the-badge&logoColor=0A66C2" alt="LinkedIn" /></a>
+  <a href="https://github.com/raultejada24"><img src="https://img.shields.io/badge/GitHub-1A1E25?style=for-the-badge&logoColor=FFFFFF&logo=github" alt="GitHub" /></a>
+  <a href="https://github.com/raultejada24?tab=repositories"><img src="https://img.shields.io/badge/My%20Contributions-1A1E25?style=for-the-badge&logoColor=F05032&logo=git" alt="My Contributions" /></a>
+  <a href="https://hub.docker.com/u/raultejada24"><img src="https://img.shields.io/badge/Docker%20Hub-1A1E25?style=for-the-badge&logoColor=2496ED&logo=docker" alt="Docker Hub" /></a>
+  <a href="mailto:r.tejada.2023@alumnos.urjc.es"><img src="https://img.shields.io/badge/Email-1A1E25?style=for-the-badge&logoColor=E8554C&logo=gmail" alt="Email" /></a>
+</p>
 
 <!-- Footer -->
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=01bffa&height=150&section=footer&animation=twinkling)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e8554c,100:0f1115&height=120&section=footer" alt="" />
