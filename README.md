@@ -77,7 +77,10 @@ const raul = {
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/raultejada24/raultejada24/output/snake.svg" alt="Contribution snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raultejada24/raultejada24/output/snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/raultejada24/raultejada24/output/snake.svg" alt="Contribution snake" />
+  </picture>
 </p>
 
 ## Find me

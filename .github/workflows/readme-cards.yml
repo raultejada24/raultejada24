@@ -21,7 +21,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=raultejada24&show_icons=true&include_all_commits=true&count_private=true&border_radius=10&bg_color=0f1115&title_color=e8554c&text_color=e7eaf0&icon_color=e8554c&border_color=282e38
+          options: username=raultejada24&show_icons=true&include_all_commits=true&count_private=true&border_radius=10&bg_color=0f1115&title_color=e8554c&text_color=e7eaf0&icon_color=e8554c&border_color=282e38&hide_rank=true
           path: profile/stats-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -29,7 +29,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=raultejada24&show_icons=true&include_all_commits=true&count_private=true&border_radius=10&bg_color=ffffff&title_color=c8232b&text_color=1f2328&icon_color=c8232b&border_color=d0d7de
+          options: username=raultejada24&show_icons=true&include_all_commits=true&count_private=true&border_radius=10&bg_color=ffffff&title_color=c8232b&text_color=1f2328&icon_color=c8232b&border_color=d0d7de&hide_rank=true
           path: profile/stats-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -37,7 +37,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=raultejada24&layout=compact&langs_count=10&hide=css&border_radius=10&bg_color=0f1115&title_color=e8554c&text_color=e7eaf0&icon_color=e8554c&border_color=282e38
+          options: username=raultejada24&layout=compact&langs_count=10&hide=css&border_radius=10&bg_color=0f1115&title_color=e8554c&text_color=e7eaf0&icon_color=e8554c&border_color=282e38&size_weight=0.5&count_weight=0.5
           path: profile/top-langs-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -45,7 +45,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=raultejada24&layout=compact&langs_count=10&hide=css&border_radius=10&bg_color=ffffff&title_color=c8232b&text_color=1f2328&icon_color=c8232b&border_color=d0d7de
+          options: username=raultejada24&layout=compact&langs_count=10&hide=css&border_radius=10&bg_color=ffffff&title_color=c8232b&text_color=1f2328&icon_color=c8232b&border_color=d0d7de&size_weight=0.5&count_weight=0.5
           path: profile/top-langs-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
