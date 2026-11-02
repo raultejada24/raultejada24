@@ -1,11 +1,11 @@
 # Copy to .github/workflows/readme-cards.yml in the raultejada24/raultejada24 profile repo.
-# The public github-readme-stats instance is paused, so the cards are generated here every day
+# The public github-readme-stats instance is paused, so the cards are generated here every week
 # and the README embeds them from ./profile/*.svg (dark and light versions).
 name: README cards
 
 on:
   schedule:
-    - cron: "0 3 * * *"
+    - cron: "0 2 * * 1"
   workflow_dispatch:
 
 permissions:
