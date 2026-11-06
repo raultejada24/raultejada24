@@ -60,12 +60,12 @@ const raul = {
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" />
-    <img src="./profile/stats-light.svg" alt="GitHub stats" height="170" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raultejada24/raultejada24/output/profile/stats-dark.svg" />
+    <img src="https://raw.githubusercontent.com/raultejada24/raultejada24/output/profile/stats-light.svg" alt="GitHub stats" height="170" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg" />
-    <img src="./profile/top-langs-light.svg" alt="Top languages" height="170" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raultejada24/raultejada24/output/profile/top-langs-dark.svg" />
+    <img src="https://raw.githubusercontent.com/raultejada24/raultejada24/output/profile/top-langs-light.svg" alt="Top languages" height="170" />
   </picture>
 </p>
 
