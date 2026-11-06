@@ -6,7 +6,7 @@ name: README cards
 
 on:
   schedule:
-    - cron: "23 3 * * *" # off the hour: GitHub delays schedules most right at :00
+    - cron: "50 2 * * *" # off the hour: GitHub delays schedules most right at :00
   workflow_dispatch:
 
 permissions:
